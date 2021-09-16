@@ -8,8 +8,8 @@ header {background-color: blue;
 }
 body {background-color: rgb(127, 112, 141);
 }
-section {text-align: center;
+p {text-align: center;
          color:honeydew;
-         font-size: large;
+         font-size:medium;
 
 }
