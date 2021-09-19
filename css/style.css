@@ -2,14 +2,19 @@ h1 {
     font-size: larger;
     font-family: fantasy;
 }
-header {background-color: blue;
+header {background-color: rgb(216, 169, 17);
+        color: black;
         text-align: center;
 
 }
 body {background-color: rgb(127, 112, 141);
+      color: rgb(216, 169, 17);
 }
 p {text-align: center;
-         color:honeydew;
+         color:rgb(239, 241, 239);
          font-size:medium;
 
+}
+footer {
+    color:rgb(216, 169, 17);
 }
